@@ -7,3 +7,4 @@ For running the java backend we need to just use maven command, spring-boot:run
 
 You may find the front end angular application code in js folder under src/main/js
 You may find the backend code in java folder under src/main/java
+You may find tests under src/test/java/com/orhp/crud
